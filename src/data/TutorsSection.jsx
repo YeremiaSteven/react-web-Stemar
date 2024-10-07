@@ -9,22 +9,22 @@ export const tutorSection = {
 export const tutorList = [
 
     {
-        image: 'https://img.freepik.com/free-vector/purple-man-with-blue-hair_24877-82003.jpg?t=st=1728308230~exp=1728311830~hmac=784984e14c5fdb9934044eedce56954ea634ca8c41236e93b35b572449c30ba0&w=740',
+        image: 'https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?t=st=1728309912~exp=1728313512~hmac=0985827542e645d190e5fbdd71b9d09d7683f342e71341dae7e77df22bc6ceb5&w=740',
         name: 'Yeremia Steven'
     },
 
     {
-        image: 'https://img.freepik.com/free-vector/purple-man-with-blue-hair_24877-82003.jpg?t=st=1728308230~exp=1728311830~hmac=784984e14c5fdb9934044eedce56954ea634ca8c41236e93b35b572449c30ba0&w=740',
+        image: 'https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?t=st=1728309912~exp=1728313512~hmac=0985827542e645d190e5fbdd71b9d09d7683f342e71341dae7e77df22bc6ceb5&w=740',
         name: 'Alvaro Chandra'
     },
 
     {
-        image: 'https://img.freepik.com/free-vector/purple-man-with-blue-hair_24877-82003.jpg?t=st=1728308230~exp=1728311830~hmac=784984e14c5fdb9934044eedce56954ea634ca8c41236e93b35b572449c30ba0&w=740',
+        image: 'https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?t=st=1728309912~exp=1728313512~hmac=0985827542e645d190e5fbdd71b9d09d7683f342e71341dae7e77df22bc6ceb5&w=740',
         name: 'Yustinus Evan'
     },
 
     {
-        image: 'https://img.freepik.com/free-vector/purple-man-with-blue-hair_24877-82003.jpg?t=st=1728308230~exp=1728311830~hmac=784984e14c5fdb9934044eedce56954ea634ca8c41236e93b35b572449c30ba0&w=740',
+        image: 'https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?t=st=1728309912~exp=1728313512~hmac=0985827542e645d190e5fbdd71b9d09d7683f342e71341dae7e77df22bc6ceb5&w=740',
         name: 'Galih Alexander'
     },
 
