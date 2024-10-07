@@ -9,23 +9,23 @@ export const partnersSection = {
 export const partnerList = [
 
     {
-        image: 'https://img.freepik.com/premium-vector/university-campus-logo_1447-1793.jpg'
+        image: 'https://mms.img.susercontent.com/123fb9603316d3aba30aa764069002c8'
     },
 
     {
-        image: 'https://image.freepik.com/free-vector/campus-collage-university-education-logo-design-template_7492-63.jpg'
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTipSE5SFEVaJByuI8JysmTF9AKj31Z9HAQ8w&s'
     },
 
     {
-        image: 'https://image.freepik.com/free-vector/campus-collage-university-education-logo-design-template_7492-62.jpg'
+        image: 'https://images.tokopedia.net/img/cache/215-square/GAnVPX/2021/7/28/e143f0f8-2ff3-431f-9a1c-655bc2add781.jpg'
     },
 
     {
-        image: 'https://img.freepik.com/premium-vector/university-campus-logo_1447-1790.jpg'
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiusnk5FwVZkBkbsuXf7ovKLd-SqVXARBGEQ&s'
     },
 
     {
-        image: 'https://image.freepik.com/free-vector/campus-collage-university-education-logo-design-template_7492-64.jpg'
+        image: 'https://mms.img.susercontent.com/704325efeeb901a838b8e3387877dfe0'
     },
 
 ]

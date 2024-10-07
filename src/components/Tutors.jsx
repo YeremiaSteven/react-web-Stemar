@@ -14,7 +14,7 @@ function Tutors(props) {
 
                         <img src={item.image}/>
                         <p>{item.name}</p>
-
+                        <p>{item.jabatan}</p>
                     </div>
 
                 )

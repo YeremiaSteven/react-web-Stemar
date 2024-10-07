@@ -12,13 +12,13 @@ export const contactSection =[
 
     {
         content:` <h3>Contact</h3>
-                    <p>Jl. Laksda Adisucipto Sleman Yogyakarta</p>
-                    <p>Kode Pos: 57365</p>`   
+                    <p>Lorem ipsum dolor sit</p>
+                    <p>Kode Pos: 11111</p>`   
     },
 
     {
         content:` <h3>Social</h3>
-                    <p><b>YouTube: </b>Programming di RumahRafif</p>`   
+                    <p><b>YouTube: </b>Lorem ipsum dolor sit</p>`   
     },
 
 

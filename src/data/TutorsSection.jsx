@@ -1,7 +1,7 @@
 export const tutorSection = {
 
-    content: `<p className="deskripsi">Our Top Tutors</p>
-                    <h2>Tutors</h2>
+    content: `<p className="deskripsi">Our Teams</p>
+                    <h2>Stemar</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, optio!</p>`
 
 }
@@ -9,23 +9,23 @@ export const tutorSection = {
 export const tutorList = [
 
     {
-        image: 'https://dfu1k3y1rami2.cloudfront.net/wp-content/uploads/2014/07/26195109/2020_cb.jpg',
-        name: 'Jason Lee Scott'
+        image: 'https://img.freepik.com/free-vector/purple-man-with-blue-hair_24877-82003.jpg?t=st=1728308230~exp=1728311830~hmac=784984e14c5fdb9934044eedce56954ea634ca8c41236e93b35b572449c30ba0&w=740',
+        name: 'Yeremia Steven'
     },
 
     {
-        image: 'https://images.ctfassets.net/1wryd5vd9xez/4DxzhQY7WFsbtTkoYntq23/a4a04701649e92a929010a6a860b66bf/https___cdn-images-1.medium.com_max_2000_1_Y6l_FDhxOI1AhjL56dHh8g.jpeg',
-        name: 'John Doe'
+        image: 'https://img.freepik.com/free-vector/purple-man-with-blue-hair_24877-82003.jpg?t=st=1728308230~exp=1728311830~hmac=784984e14c5fdb9934044eedce56954ea634ca8c41236e93b35b572449c30ba0&w=740',
+        name: 'Alvaro Chandra'
     },
 
     {
-        image: 'https://images.fastcompany.net/image/upload/w_596,c_limit,q_auto:best,f_auto/fc/3021752-inline-i-1-why-square-designed-its-new-offices-to-work-like-a-city.jpg',
-        name: 'Michael Dell'
+        image: 'https://img.freepik.com/free-vector/purple-man-with-blue-hair_24877-82003.jpg?t=st=1728308230~exp=1728311830~hmac=784984e14c5fdb9934044eedce56954ea634ca8c41236e93b35b572449c30ba0&w=740',
+        name: 'Yustinus Evan'
     },
 
     {
-        image: 'https://blogs-images.forbes.com/jackkelly/files/2019/06/Jack-Kelly_avatar_1559658819-400x400.jpg',
-        name: 'Bruce Wills'
+        image: 'https://img.freepik.com/free-vector/purple-man-with-blue-hair_24877-82003.jpg?t=st=1728308230~exp=1728311830~hmac=784984e14c5fdb9934044eedce56954ea634ca8c41236e93b35b572449c30ba0&w=740',
+        name: 'Galih Alexander'
     },
 
 ]
